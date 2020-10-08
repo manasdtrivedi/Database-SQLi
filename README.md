@@ -7,6 +7,9 @@ To perform an SQL injection, a user may enter any user ID, and the password `pas
 
 The patch for the SQLi vulnerability involves using SQL prepared statements.
 
+## Demo video
+A demo video for this project can be viewed [here](https://youtu.be/avcdFuPxo30).
+
 ## Technical specifications
 * Java 7 or above
 * MySQL version 5.1 or above
